@@ -14,7 +14,10 @@
 ## 🚀 Featured Projects
 
 ### TechFix
+
 Technical support management platform built with modern web technologies.
+
+🔗 https://github.com/eidymanzo/TechFix
 
 ### Personal Portfolio
 Showcase of my projects, skills and experience.
