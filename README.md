@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eidimice Manzo</h1>
-<h3 align="center">Junior Full Stack Developer focused on Java, Spring Boot and Scalable Web Applications</h3>
+<h3 align="center">### Junior Full Stack Developer focused on Java, Spring Boot and Scalable Web Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eidymanzo&label=Profile%20views&color=0e75b6&style=flat" alt="eidymanzo" /> </p>
 
@@ -10,7 +10,16 @@
 - 💬 Ask me about **Java, Spring Boot, React, APIs and Full Stack Development**
 
 - 📫 How to reach me **eidymanzo@gmail.com**
+- 
+## 🚀 Featured Projects
 
+### TechFix
+Technical support management platform built with modern web technologies.
+
+### Personal Portfolio
+Showcase of my projects, skills and experience.
+
+🌐 https://eidimice-manzo.netlify.app
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eidymanzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eidymanzo" height="30" width="40" /></a>
