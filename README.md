@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eidimice Manzo</h1>
+<h1 align="center">Hi, I'm Eidy Manzo</h1>
 <h3 align="center">Junior Full Stack Developer focused on Java, Spring Boot and Scalable Web Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eidymanzo&label=Profile%20views&color=0e75b6&style=flat" alt="eidymanzo" /> </p>
